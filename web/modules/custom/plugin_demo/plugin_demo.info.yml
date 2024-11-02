@@ -1,0 +1,5 @@
+name: 'Plugin Demo'
+type: module
+description: 'A demonstration of how Drupal Plugins work'
+package: Custom
+core_version_requirement: ^10 || ^11

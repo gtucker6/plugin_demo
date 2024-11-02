@@ -1,0 +1,4 @@
+services:
+  plugin.manager.frame:
+    class: Drupal\plugin_demo\Service\FramePluginManager
+    parent: default_plugin_manager

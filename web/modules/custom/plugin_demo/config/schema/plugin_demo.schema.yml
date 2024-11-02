@@ -1,0 +1,7 @@
+block.settings.plugin_demo_frame:
+  type: block_settings
+  label: 'Frame Block'
+  mapping:
+    frame:
+      type: mapping
+      label: 'Frame config'
